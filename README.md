@@ -1,3 +1,1 @@
-"Franchement c'est ça"
-
-#1st edit depuis le client git
+Branch pour concentrer les ressources de dev testées/utiles à la main et pouvoir push
